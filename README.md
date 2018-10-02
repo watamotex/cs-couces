@@ -1,6 +1,6 @@
-# cs-couces
+# cs-couses
 
-Cources
+Courses
 
 - cs50x - https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
 - Princeton algorythms PART1 - https://www.coursera.org/learn/algorithms-part1
