@@ -11,4 +11,6 @@ Books
 - Cracking coding interview
 - elements of programming interviews
 
+Videos
 
+-  https://yandexdataschool.ru/edu-process/courses/algorithms
