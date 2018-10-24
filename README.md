@@ -14,3 +14,8 @@
 ## Videos
 
 -  https://yandexdataschool.ru/edu-process/courses/algorithms
+
+
+## Немного на русском
+
+- http://aliev.me/runestone/
